@@ -9,14 +9,18 @@
 遂使用 python 重写了一遍.
 
 ## 使用说明
+在装有 Alfred 的电脑上,双击 `TimeStamp.alfredworkflow` 文件,将本插件导入Alfred使用.
 
-1. time now
-显示当前时间、时间戳、毫秒时间戳
+### 命令：
+1. time now  显示当前时间、时间戳、毫秒时间戳
 
-2. time 1488888888 时间戳转为时间.
+2. time 1488888888 时间戳转为时间
 
 3. time 2017-03-07 20:14:48 时间转为时间戳
 
-按回车将当前选中内容保存到剪切板
+
+默认快捷键为`Cmd + Control + t`,可免输入 time 关键字,并把系统当前选中的文字传入 Alfred 输入框中.
+
+按回车可将当前 Alfred 显示内容保存到剪切板.
 
 ![demo](https://raw.githubusercontent.com/xingchenxuanfeng/TimeStampAlfredWorkflowPython/main/wf.png)
