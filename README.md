@@ -9,6 +9,8 @@
 遂使用 python 重写了一遍.
 
 ## 使用说明
+下载地址： https://github.com/xingchenxuanfeng/TimeStampAlfredWorkflowPython/releases
+
 在装有 Alfred 的电脑上,双击 `TimeStamp.alfredworkflow` 文件,将本插件导入Alfred使用.
 
 ### 命令：
